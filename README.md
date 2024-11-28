@@ -1,0 +1,2 @@
+# Javascript
+learning_journey
